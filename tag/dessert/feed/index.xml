@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dessert &#8211; www.petrafit.com</title>
+	<atom:link href="/tag/dessert/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 26 Jul 2017 11:27:48 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/09/cropped-Zeichenfläche-1@2x-32x32.png</url>
+	<title>Dessert &#8211; www.petrafit.com</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Müsli mit Joghurt, Erdbeere, Johannisbeere und Nüsse</title>
+		<link>/muesli-mit-joghurt-erdbeere-johannisbeere-und-nuesse/</link>
+		<comments>/muesli-mit-joghurt-erdbeere-johannisbeere-und-nuesse/#respond</comments>
+		<pubDate>Tue, 08 Nov 2016 12:44:02 +0000</pubDate>
+		<dc:creator><![CDATA[Petra Béres]]></dc:creator>
+				<category><![CDATA[Rezepte]]></category>
+		<category><![CDATA[Dessert]]></category>
+		<category><![CDATA[Frühstück]]></category>
+		<category><![CDATA[Vegetarisch]]></category>
+
+		<guid isPermaLink="false">:8080/?p=351</guid>
+		<description><![CDATA[Ein ausgewogenes Frühstück ist sehr wichtig für eine gesunde Ernährung. Die frische Zutaten liefern Energie, Vitamine und gesunde Fette. Obst kann man nach Saison variieren.]]></description>
+		<wfw:commentRss>/muesli-mit-joghurt-erdbeere-johannisbeere-und-nuesse/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

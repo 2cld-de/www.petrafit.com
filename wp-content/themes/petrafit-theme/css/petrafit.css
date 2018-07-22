@@ -1,0 +1,1136 @@
+/*
+=====
+Globale elemente
+=====
+*/
+ul, menu, dir {
+	-webkit-padding-start: 0px;
+}
+html, body, a{   /* Fließtext */
+	font-weight:100;
+	font-family: 'Open Sans', sans-serif;
+	letter-spacing: 1px;
+	text-align: left;
+	font-size: 100%;
+	width: 100%;
+	margin: 0px auto;
+	text-decoration: none;
+	color:#000000;
+}
+li{
+	font-weight:100;
+	list-style:none;
+	font-size: 1em;
+	font-family: "freight-text-pro", serif;	
+}
+p, strong{
+	font-weight:100;
+	font-size: 1.1em;
+	line-height:24px;
+	font-family: "freight-text-pro", serif;
+	}
+h1{
+	font-family: 'Open Sans', sans-serif;
+	font-size:5em;
+	font-weight:100;
+	margin:0;
+	padding:0;
+	
+	text-decoration:none;
+	text-transform: uppercase;
+		
+	}
+#seitentitel h1{
+	font-family: 'Open Sans', sans-serif;
+	font-size:4.75em;
+	font-weight:100;
+	margin:0;
+	pading:0;
+	display:inline;
+	
+}
+#artikeltitel h1{
+	font-family: 'Open Sans', sans-serif;
+	font-size:2.75em;
+	font-weight:100;
+	margin:0;
+	pading:0;
+	display:inline;
+}
+#bannermsg h1{
+	font-size:6em;
+	}
+h2{
+	font-family: 'Open Sans', sans-serif;
+	font-size:2em;
+	font-weight:100;
+	margin:0;
+	pading:0;
+	
+	
+}
+h3{
+	font-weight:100;
+	font-size: 1em;
+	font-family: "freight-text-pro", serif;
+	color:#777777;
+	margin:0;
+	padding:0;
+	text-decoration:none;
+}
+h4{
+	font-weight:100;
+	font-size: 1em;
+	font-family: "freight-text-pro", serif;
+	color:#F6F6F6;
+	margin:0;
+	padding:0;
+	text-decoration:none;
+}
+/*
+=====
+Die Classen, die oft benutzt würden.
+=====
+*/
+.lineheight{
+	line-height:20px;
+}
+.float-left {
+	float: left;
+}
+.float-right {
+	float: right;
+}
+.clear {
+	clear: both;
+}
+.width30 {
+	width:30%;
+}
+.width60 {
+	width:65%;
+}
+.width100 {
+	width:100%;
+}
+.heightauto {
+	height:auto;
+}
+.marginleft{
+	margin-left:15px;
+}.marginright{
+	margin-right:15px;
+	margin-bottom:5px
+}
+.margintop{
+	margin-top:60px;
+}
+.margintop30{
+	margin-top:30px;
+}
+.marginbottom{
+	margin-bottom:60px;
+}
+.marginbottom30{
+	margin-bottom:30px;
+}
+/*
+=====
+Wrapper
+=====
+*/
+#wrapper{
+	
+	width:1200px;
+	margin:auto;
+	padding:60px 0;
+}
+/*
+=====
+Headerbereich wird auf Navbar und Banner hergestellt. 
+.navbarcontainer (header_image und wp_nav_menu)
+.banner 
+=====
+*/
+
+#header{ /*container*/
+	width:100%;
+}
+#navbarcontainer{
+	width:1200px;
+	margin:auto;
+}
+#navbar{
+	
+	color:#FFFFFF;
+	width:100%;
+	background-color:#000000;
+} /*container endet hier*/
+
+#titel{ /*seitetitel*/
+	
+	
+	padding-top:17px;
+}
+#titel a{
+	color:#FFFFFF;
+} /*seitetitel endet hier*/
+#menuicon{
+	display:none;
+}
+#hauptmenu{ /* HAUPTMENU*/
+	font-size:1em;
+	
+	}
+#hauptmenu ul{
+	margin:0;
+}
+#hauptmenu li {
+	padding:33px 0;
+	display: inline-block;
+	margin-left:25px;
+}
+#hauptmenu li.current-menu-item{
+	border-bottom: 5px solid #ff68b3;
+}
+#hauptmenu li.current-menu-item a, #hauptmenu li a:hover{
+	color: #ff68b3;
+}
+
+#hauptmenu li a {
+	
+	
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #FFFFFF;
+}/* HAUPTMENU endet hier*/
+
+#banner{/* banner*/
+	
+	background-size:cover;
+
+}
+body.custom-background{
+	background-image: none;
+}
+.overlay{
+	background:rgba(0, 0, 0, 0.4);
+	width:100%;
+	height:100%;
+	top: 0;
+	}
+#bannermsg{
+	text-align:center;
+	color:#FFFFFF;
+	width:80%;
+	margin:0px auto;
+	padding-top:150px;
+}
+#bannerbutton{
+	position:absolute;
+	bottom:0;
+	right:35%;	
+	background-color: #FF68B2;; /* Pink */
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;	
+	font-weight:600;
+	letter-spacing: 2px;
+	width:30%;
+}
+
+
+/*
+=====
+Inhaltbereiche, (index.php)
+=====
+*/
+
+#contentbereich{
+	border-color:#cecece;
+	padding-right:50px;
+	border-right-style:solid;
+	border-width:thin;
+	margin-bottom:35px;
+	
+}
+.artikelcontainer{
+	margin-bottom:150px;
+}
+#artikeltumb{
+	margin-top:9px;
+	
+}
+#artikelteaser{
+	
+	
+	padding-bottom:30px;
+	/*
+	border-bottom-style: solid;
+	border-width:thin;
+	*/
+}
+
+#teaser h3 a{
+	font-size: 1em;
+	font-family: "freight-text-pro", serif;
+	color:#777777;
+	margin:0;
+	padding:0;
+	text-decoration:none;
+	}
+
+.read-more{
+	font-family: "freight-text-pro", serif;
+	font-size:1em;
+	font-weight:100;
+	color:#FF68B2;
+	padding-left:5px;
+	
+	
+	}
+
+/*
+=====
+Sharebuttons (sozialnetwerk.php)
+=====
+*/
+#sharebutton a img{
+	margin-right:15px;
+}
+/*
+=====
+Sidebar (sidebar.php)
+=====
+*/
+#sidebar{
+	width:30%;
+	
+	}
+	
+#sidebar p{
+	list-style-type:none;
+	
+}
+#sidebar p a{
+	list-style-type:none;
+}
+.cat-item{
+list-style-type:none;
+}
+
+#wigetcontainer{
+	    padding-left: 30px;
+
+}
+#petrabio{
+	width:90%;
+	margin:auto;
+	text-align: center;
+}
+#petrabio img{
+	border-radius:50%;
+}
+#wigetcontainer a{
+	font-family: "freight-text-pro", serif;
+}
+
+
+/*
+=====
+Footer (footer.php)
+=====
+*/
+
+footer{
+	width:100%;
+	height:85px;
+	background-color:#ff68b3;
+}
+
+#footerwrapper{
+	margin:auto;
+	width:1200px;
+	
+}
+
+
+#footermenu{/* Footermenu*/
+	font-size:1em;
+	padding-top:32px;;
+}
+
+#footermenu ul{
+	margin:0;
+}
+#footermenu li {
+	
+	
+	display: inline-block;
+	
+}
+#footermenu li a{
+	font-weight: 100;
+	font-size: 1em;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+#footermenu li.current-menu-item a, #footermenu li a:hover{
+	color: #D9D9D9;
+}
+#sozialnetzwerk{
+	padding-top:22px;}
+/*
+=====
+Impresum (page-impressum.php)
+=====
+*/
+#impressum a{
+	font-weight:100;
+	font-size: 1em;
+	font-family: "freight-text-pro", serif;
+	color:#ff68b3;
+	margin:0;
+	padding:0;
+	text-decoration:none;
+}
+#impressum li, p{
+	font-size:1.1em;
+}
+
+#impressumimg img{
+	margin:0;
+}
+#impressum td{
+	font-size: 1.1em;
+	line-height:24px;
+	font-family: "freight-text-pro", serif;
+}
+
+/*
+=====
+Postformat: Image (content-image.php Rezepten)
+=====
+*/
+
+#rezept li{
+	line-height:38px;}
+
+#rezept a{
+	font-size: 1em;
+	font-family: "freight-text-pro", serif;
+	color:#777777;
+	margin:0;
+	padding:0;
+	text-decoration:none;
+}
+#rezeptthumb img{
+	width:100%;
+	height:auto;
+	
+}
+
+/*
+=====
+Postformat: Video (content-video.php Videos)
+=====
+*/
+iframe {
+	width:100%;
+	
+}
+/*
+=====
+Standard wp Gallery
+=====
+*/
+
+.gallery{
+	width: 100%;
+	height:auto;
+}
+.gallery img{
+	width:100%;
+	height:auto;
+	border:none;
+}
+.landscape{
+	
+}
+.gallery-item{
+	width:32%;
+	float:left;
+	margin-top: 10px;
+	text-align:left;
+	margin-right:5px;
+}
+.size-full{
+	display: block;
+	width: 100%;
+	height:auto;
+	}
+.size-large{
+	display: block;
+	width: 100%;
+	height:auto;
+}
+.size-medium{
+	
+	display: block;
+	width:100%;
+	height:auto;
+	
+}
+#attachment_95{
+	width:100%;
+	height:auto;}
+.alignleft{
+	padding:15px 22px 10px 0;
+	float:left;
+}
+.alignright{
+	padding:10px 10px 5px 10px;
+	float:right;
+}
+.wp-caption{
+	width:100% !important;
+}
+.wp-caption-text{
+	font-size:0.8em;
+	margin:0;
+	font-style: italic;
+}
+
+/*
+=====
+Simple Share Buttons Adder
+=====
+*/
+.ssba-wrap{
+	margin-top:40px;
+	font-family: "freight-text-pro ", serif !important;
+}
+.ssba-wrap{
+	
+	font-family: "freight-text-pro ", serif !important;
+}
+.ssba a{
+	font-family: "freight-text-pro", serif;
+	padding-right:15px;
+	margin-top:20px;
+}
+#rezept .ssba a{
+	padding-right:15px;}
+.ssba img{
+	padding:0 !important;
+}
+
+
+/*
+=====
+--------------------------------------------Media Queris---------------------------------------------------------
+=====
+*/
+
+@media (min-width: 1200px){
+	
+}
+@media (max-width: 1300px){
+#contentbereich{
+	padding-right:0;
+}
+#teaser{
+	width:60%;
+	margin-left:35px;
+
+}
+}
+@media (max-width: 1300px){
+#wrapper {
+	width: 90%;
+	padding:30px 5% 60px 5%;
+}
+#footerwrapper{
+	width: 90%;
+	padding:0 5%;
+}
+#navbarcontainer{
+	width:90%;
+}
+#bannermsg h1, #seitentitel h1{
+	font-size:5em;
+}
+}
+@media (max-width: 992px){
+
+#wrapper {
+	width: 90%;
+	padding:60px 5% 0 0;
+}#titel{
+	padding-top:2px;
+}
+#titel a img{
+	width:70%;
+}
+#hauptmenu{ 
+	font-size:1.3em;
+	position:absolute;
+	right:0;
+	top:90px;
+	background-color:rgba(0, 0, 0, 0.8);
+	display:none;	
+	padding:5%;
+	padding-top:0;
+	padding-bottom:10px;
+	width:100%;
+}
+#hauptmenu li {
+	text-align:right;
+	padding:20px 0;
+	display:block;
+	margin-left:25px;
+}
+#hauptmenu li.current-menu-item{
+	border-bottom: none;
+}
+#hauptmenu li.current-menu-item a, #hauptmenu li a:hover{
+	color: #ff68b3;
+}
+#menuicon{
+	margin:10px 0;
+	display:inline-block;
+}
+.menu-icon{
+	width: 30px;
+    height: 4px;
+    background-color: white;
+    margin: 7px 0;
+}
+
+
+#bannermsg h1, #seitentitel h1{
+	font-size:4em;
+}
+#contentbereich{
+	width: 100%;
+	border-right-style: none;
+	border-bottom-style: solid;
+	padding-bottom: 35px;
+	padding-right:0;
+}
+#sidebar{
+	padding-top: 35px;
+	float:none;
+	width:100%;
+	margin:auto;
+}
+#wigetcontainer{
+	padding-left:0;
+}
+#petrabio{
+	width:100%;
+}
+#artikelteaser{
+	width:100%;
+}
+#artikeltumb{
+	/*margin-right:30px;*/
+}
+#teaser{
+	margin-left:10px;
+}
+#bannerbutton{
+	right:30%;
+	width:40%;
+}
+}
+@media (max-width: 792px){
+#teaser{
+	margin-left: 30px;
+}
+}
+@media (max-width: 692px){
+#bannermsg h1{
+	font-size:4em;
+}
+#titel a img{
+	width:80%;
+}
+#bannerbutton{
+	right:30%;
+	width:40%;
+}
+#bannermsg h1, #seitentitel h1{
+	font-size:3.5em;
+}
+
+#artikelteaser{
+	width:100%;
+}
+#artikeltumb{
+	margin-right:30px;
+	float:none;
+	width:100%;
+	
+}
+#artikeltumb img{
+	width:100%;
+	height:auto;
+}
+#teaser{
+	width:100%;
+	margin-left:0;
+}
+#bannerbutton{
+	right:25%;
+	width:50%;
+}
+}
+@media (max-width: 592px){
+#titel a img{
+	width:100%;
+}
+#bannermsg h1, #seitentitel h1{
+	font-size:3em;
+}
+
+}
+@media (max-width: 492px){
+#bannermsg h1, #seitentitel h1{
+	font-size:2.2em;
+}
+#titel a img{
+	width:110%;
+}
+#bannerbutton{
+	right:20%;
+	width:60%;
+}
+}
+@media (max-width: 400px){
+#titel a img{
+	width:120%;
+}
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+
+/*#bannermsg{
+	width:70%;
+	padding-top: 100px;
+}
+
+#contentbereich{
+	width: 55%;
+}
+#sidebar{
+	width:35%;
+}
+#teaser{
+	width:55%;
+	float:right;
+}
+#artikeltumb{
+	width:39%;
+}
+
+*/
+}
+
+@media (min-width: 700px) and (max-width: 991px){
+/*
+#bannermsg h1{
+	font-size:4em;
+}
+
+#titel{
+	padding-top:2px;
+}
+*/
+
+}
+
+@media (min-width: 600px) and (max-width: 699px){
+
+
+/*
+
+#titel{
+	padding-top:7px;
+}
+#teaser{
+	width:60%;
+}
+*/
+}
+
+@media (min-width: 400px) and (max-width: 599px){
+}
+
+
+@media (max-width: 399px){
+
+}
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) {
+/*header{
+	display:none;
+}
+h1{
+	font-size:4em;
+}
+h2{
+	font-size:3em;
+}
+}
+h3{
+	font-size:2em;
+}
+p{
+	font-size:2em;
+	line-height:34px;
+}
+h1{
+	font-size:2em;
+}
+h1{
+	font-size:2em;
+}
+*/
+
+
+.margin-top{
+	margin-top:120px;
+}
+a{
+}
+h1{
+	font-family: 'Open Sans', sans-serif;
+	font-size:6em;
+	
+}
+h2{
+	
+	font-size:6em;
+}
+h3{
+	font-size: 2.5em;
+}
+h4{
+	font-size: 3em;
+}
+p{
+	font-size: 3.5em;
+	line-height:65px;
+	font-family: "freight-text-pro", serif;
+}
+margintop h1{
+    font-size: 6em;
+	font-weight:100;
+}
+#artikeltitel h1{
+	font-size: 6em;
+	display:inline;
+	font-weight:100;
+}
+#bannermsg h1{
+	font-size: 6em;
+}
+#rezept li{
+	list-style:none;
+	font-size: 3em;
+	line-height:65px;
+	font-family: "freight-text-pro", serif;
+	padding:35px 0;
+}
+#wrapper {
+	width: 90%;
+	padding:60px 0;
+}
+
+#navbar{
+	width: 90%;
+	padding:0 5%;
+}
+#navbarcontainer{
+	height:200px;
+	width:100%;
+	
+}
+#titel{
+	margin:0;
+	padding:25px 0;
+}
+#titel a img{
+	width:140%;
+}
+/* HAUPTMENU*/
+#hauptmenu{ 
+	font-size:4em;
+	position:absolute;
+	right:0;
+	top:200px;
+	background-color:rgba(0, 0, 0, 0.8);
+	display:none;	
+	padding:5%;
+	padding-top:0;
+	padding-bottom:10px;
+	width:100%;
+	}
+#hauptmenu ul{
+}
+#hauptmenu li {
+	text-align:right;
+	padding:50px 0;
+	display:block;
+	margin-left:25px;
+}
+#hauptmenu li.current-menu-item{
+	border-bottom: none;
+}
+#hauptmenu li.current-menu-item a, #hauptmenu li a:hover{
+	color: #ff68b3;
+}
+#hauptmenu li  {
+}
+#menuicon{
+	margin:40px 0;
+	display:inline-block;
+}
+.menu-icon{
+	width: 80px;
+    height: 10px;
+    background-color: white;
+    margin: 20px 0;
+}
+/* HAUPTMENU endet hier*/
+.overlay{
+	background:rgba(0, 0, 0, 0.4);
+}
+#banner{
+	background-size:cover;
+}
+#bannermsg{
+	width:90%;
+	margin:auto;
+	padding-top:250px;
+}
+#bannerbutton{
+	right:20%;	
+	font-size: 3em;	
+	font-weight:400;
+	letter-spacing: 2px;
+	width:60%;
+	height:120px;
+}
+#contentbereich {
+    border-right-style: none;
+	border-bottom-style:solid;
+	width:100%;
+	padding-right:0;
+	padding-bottom:7%;
+	margin-bottom:60px;
+}
+#artikeltumb {
+	width:100%;
+	margin-bottom:15px;
+}
+#artikeltumb img{
+	width:100%;
+	height:auto;
+}
+#artikelteaser {
+    padding-bottom: 60px;
+}
+#teaser{
+	width:100%;
+}
+#teaser p{
+}
+#sidebar{
+	width:100%;
+}
+#petrabio img{
+	width:50%;
+	height:auto;
+	margin:30px auto;
+}
+#wigetcontainer{
+	padding-left:0;
+}
+#wigetcontainer a{
+	font-size:3.5em;
+}
+footer{
+	height:auto;
+}
+#footerwrapper{
+	width:90%;
+	padding:5% 0;
+}
+#footermenu{
+	display:block;
+	font-size:3.5em;
+	margin-bottom:70px;
+	height: 150px;
+	margin:auto;
+	float:none;
+	padding:0;
+	width:37%;
+}
+#sozialnetzwerk{
+	padding:0;
+	margin-top:100px;
+	display:block;
+	margin:auto;
+	float:none;
+	width:42%;
+}
+#sozialnetzwerk img{
+	width:100px;
+	height:auto;
+	margin-top:3px;
+}
+#sozialnetzwerk a{
+	margin-right:30px;
+}
+/* Postformat-Image*/
+#rezept div{
+	float:none;
+	width:100%;
+	margin-top: 100px;
+    margin-bottom: 50px;
+}
+#zeit{
+	margin-top:80px;
+}
+#nahrwert{
+	margin-top:80px;
+}
+/*
+=====
+Standard wp Gallery
+=====
+*/
+.gallery-item{
+	margin-right:10px;
+}
+.wp-caption-text{
+	font-size:3em;
+	font-style: italic;
+	margin:0;
+}
+.ssba{
+}
+#sharebutton a img{
+	width:80px;
+	height:auto;
+	margin-right:30px;
+	margin-top:15px;
+}
+/* ------------------------------------------Impressum---------------------------------------------------------*/
+#impressum{
+	overflow:hidden;
+}
+#impressum h2{
+	font-size:4em;
+}
+#impressum li{
+	font-size: 3.5em;
+	line-height:65px;
+	font-family: "freight-text-pro", serif;
+}
+#impressum td{
+	font-size: 3.5em;
+	line-height:65px;
+	font-family: "freight-text-pro", serif;
+}
+#impressum a{	
+}
+}
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 568px)
+and (orientation : landscape) {
+p {
+    font-size: 2em;
+    line-height: 45px;
+}
+h2 {
+    font-size: 3em;
+}
+h3 {
+    font-size: 1.8em;
+}
+#hauptmenu{
+	font-size: 2em;
+	top: 100px;
+	padding-top:20px;
+}
+#hauptmenu li {
+    text-align: right;
+    padding: 20px 0;
+}
+#teaser{
+	margin-left:50px;
+}
+#teaser h3 a {
+    /*font-size: 0.8em;*/
+}
+#titel a img{
+	width:80%;
+}
+#navbarcontainer{
+	height: 100px;
+}
+#menuicon{
+	margin:0;
+	margin-top:22px;
+	
+}
+.menu-icon {
+    width: 50px;
+    height: 6px;
+    background-color: white;
+    margin: 8px 0;
+}
+#titel{
+	padding:0;
+	margin-top:12px;
+}
+#bannermsg h1 {
+    font-size: 3em;
+}
+#bannermsg {
+    width: 90%;
+    margin: auto;
+    padding-top: 70px;
+}
+#bannerbutton{
+	right: 35%;
+    font-size: 1.5em;
+    font-weight: 400;
+    letter-spacing: 2px;
+    width: 30%;
+    height: 50px;
+}
+#sidebar{
+	float:right;
+}
+#artikeltumb{
+	width:30%;
+}
+#teaser{
+	width:60%;
+}
+#petrabio img{
+	width:35%;
+}
+}
