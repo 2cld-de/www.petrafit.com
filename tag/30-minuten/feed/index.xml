@@ -9,8 +9,8 @@
 
 <channel>
 	<title>30 Minuten &#8211; www.petrafit.com</title>
-	<atom:link href="/tag/30-minuten/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://2cld-mweber.github.io/petrafitcom/tag/30-minuten/feed/" rel="self" type="application/rss+xml" />
+	<link>https://2cld-mweber.github.io/petrafitcom/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 26 Jul 2017 11:27:48 +0000</lastBuildDate>
 	<language>de-DE</language>
@@ -19,60 +19,60 @@
 	<generator>https://wordpress.org/?v=4.5.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/09/cropped-Zeichenfläche-1@2x-32x32.png</url>
+	<url>https://2cld-mweber.github.io/petrafitcom/wp-content/uploads/2016/09/cropped-Zeichenfläche-1@2x-32x32.png</url>
 	<title>30 Minuten &#8211; www.petrafit.com</title>
-	<link>/</link>
+	<link>https://2cld-mweber.github.io/petrafitcom/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Vollkornspagetti mit Rindhackfleisch-Zucchini-Pilz-Soße</title>
-		<link>/vollkornspagetti-mit-rindhackfleisch-zucchini-pilz-sosse/</link>
-		<comments>/vollkornspagetti-mit-rindhackfleisch-zucchini-pilz-sosse/#respond</comments>
+		<link>https://2cld-mweber.github.io/petrafitcom/vollkornspagetti-mit-rindhackfleisch-zucchini-pilz-sosse/</link>
+		<comments>https://2cld-mweber.github.io/petrafitcom/vollkornspagetti-mit-rindhackfleisch-zucchini-pilz-sosse/#respond</comments>
 		<pubDate>Wed, 26 Jul 2017 11:27:42 +0000</pubDate>
 		<dc:creator><![CDATA[Petra Béres]]></dc:creator>
 				<category><![CDATA[Rezepte]]></category>
 		<category><![CDATA[30 Minuten]]></category>
 
-		<guid isPermaLink="false">:8080/?p=395</guid>
+		<guid isPermaLink="false">https://2cld-mweber.github.io/petrafitcom:8080/?p=395</guid>
 		<description><![CDATA[Vollkornspagetti ist eine gesunde Alternative für Leute, die Nudeln gerne essen. Man kann sehr gut mit verschiedenen Soßen variieren, hier gibt eine Idee mit viele Pilze und Zucchini.]]></description>
-		<wfw:commentRss>/vollkornspagetti-mit-rindhackfleisch-zucchini-pilz-sosse/feed/</wfw:commentRss>
+		<wfw:commentRss>https://2cld-mweber.github.io/petrafitcom/vollkornspagetti-mit-rindhackfleisch-zucchini-pilz-sosse/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Süßkartoffeleintopf im Pfanne</title>
-		<link>/suesskartoffeleintopf-im-pfanne/</link>
-		<comments>/suesskartoffeleintopf-im-pfanne/#respond</comments>
+		<link>https://2cld-mweber.github.io/petrafitcom/suesskartoffeleintopf-im-pfanne/</link>
+		<comments>https://2cld-mweber.github.io/petrafitcom/suesskartoffeleintopf-im-pfanne/#respond</comments>
 		<pubDate>Thu, 02 Feb 2017 09:56:32 +0000</pubDate>
 		<dc:creator><![CDATA[Petra Béres]]></dc:creator>
 				<category><![CDATA[Rezepte]]></category>
 		<category><![CDATA[30 Minuten]]></category>
 		<category><![CDATA[Low carb]]></category>
 
-		<guid isPermaLink="false">:8080/?p=386</guid>
+		<guid isPermaLink="false">https://2cld-mweber.github.io/petrafitcom:8080/?p=386</guid>
 		<description><![CDATA[Dieser Eintopf zubereiten ist sehr schnell, gesund und schmeckt auch super 🙂]]></description>
-		<wfw:commentRss>/suesskartoffeleintopf-im-pfanne/feed/</wfw:commentRss>
+		<wfw:commentRss>https://2cld-mweber.github.io/petrafitcom/suesskartoffeleintopf-im-pfanne/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Gemüsepfanne</title>
-		<link>/gemuesepfanne/</link>
-		<comments>/gemuesepfanne/#respond</comments>
+		<link>https://2cld-mweber.github.io/petrafitcom/gemuesepfanne/</link>
+		<comments>https://2cld-mweber.github.io/petrafitcom/gemuesepfanne/#respond</comments>
 		<pubDate>Mon, 12 Dec 2016 12:45:06 +0000</pubDate>
 		<dc:creator><![CDATA[Petra Béres]]></dc:creator>
 				<category><![CDATA[Rezepte]]></category>
 		<category><![CDATA[30 Minuten]]></category>
 		<category><![CDATA[Low carb]]></category>
 
-		<guid isPermaLink="false">:8080/?p=371</guid>
+		<guid isPermaLink="false">https://2cld-mweber.github.io/petrafitcom:8080/?p=371</guid>
 		<description><![CDATA[Gemüsepfanne ist passend für ein gesundes Mittagessen oder Abendbrot. Die Zutaten enthalten viele Vitamine und Ballaststoffe. Man kann auch vegetarisch zubereiten,dazu braucht man einfach Rohschinken weglassen.]]></description>
-		<wfw:commentRss>/gemuesepfanne/feed/</wfw:commentRss>
+		<wfw:commentRss>https://2cld-mweber.github.io/petrafitcom/gemuesepfanne/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Erbsenpüree</title>
-		<link>/erbsenpueree/</link>
-		<comments>/erbsenpueree/#respond</comments>
+		<link>https://2cld-mweber.github.io/petrafitcom/erbsenpueree/</link>
+		<comments>https://2cld-mweber.github.io/petrafitcom/erbsenpueree/#respond</comments>
 		<pubDate>Fri, 11 Nov 2016 10:04:40 +0000</pubDate>
 		<dc:creator><![CDATA[Petra Béres]]></dc:creator>
 				<category><![CDATA[Rezepte]]></category>
@@ -82,15 +82,15 @@
 		<category><![CDATA[Low carb]]></category>
 		<category><![CDATA[Vegetarisch]]></category>
 
-		<guid isPermaLink="false">:8080/?p=360</guid>
+		<guid isPermaLink="false">https://2cld-mweber.github.io/petrafitcom:8080/?p=360</guid>
 		<description><![CDATA[Erbsenpüree ist eine perfekte Lösung für kalorienarmes Abendbrot als Gemüsedip, für Frühstück auf Toast oder einfach zu naschen 🙂]]></description>
-		<wfw:commentRss>/erbsenpueree/feed/</wfw:commentRss>
+		<wfw:commentRss>https://2cld-mweber.github.io/petrafitcom/erbsenpueree/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Humus</title>
-		<link>/humus/</link>
-		<comments>/humus/#respond</comments>
+		<link>https://2cld-mweber.github.io/petrafitcom/humus/</link>
+		<comments>https://2cld-mweber.github.io/petrafitcom/humus/#respond</comments>
 		<pubDate>Tue, 08 Nov 2016 11:30:14 +0000</pubDate>
 		<dc:creator><![CDATA[Petra Béres]]></dc:creator>
 				<category><![CDATA[Rezepte]]></category>
@@ -98,24 +98,24 @@
 		<category><![CDATA[Dip]]></category>
 		<category><![CDATA[Vegetarisch]]></category>
 
-		<guid isPermaLink="false">:8080/?p=344</guid>
+		<guid isPermaLink="false">https://2cld-mweber.github.io/petrafitcom:8080/?p=344</guid>
 		<description><![CDATA[Humus ist aus der orientalische Küche bekannt, macht nicht nur die Grill-Abende geschmackvoller, sondern passt auch perfekt als Gemüsedip.]]></description>
-		<wfw:commentRss>/humus/feed/</wfw:commentRss>
+		<wfw:commentRss>https://2cld-mweber.github.io/petrafitcom/humus/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Zucchinispaghetti mit Gemüsesoße und Käse</title>
-		<link>/zucchinispaghetti-mit-gemuesesosse-und-kaese/</link>
-		<comments>/zucchinispaghetti-mit-gemuesesosse-und-kaese/#respond</comments>
+		<link>https://2cld-mweber.github.io/petrafitcom/zucchinispaghetti-mit-gemuesesosse-und-kaese/</link>
+		<comments>https://2cld-mweber.github.io/petrafitcom/zucchinispaghetti-mit-gemuesesosse-und-kaese/#respond</comments>
 		<pubDate>Fri, 09 Sep 2016 13:22:31 +0000</pubDate>
 		<dc:creator><![CDATA[Dejan Vjestica]]></dc:creator>
 				<category><![CDATA[Rezepte]]></category>
 		<category><![CDATA[30 Minuten]]></category>
 		<category><![CDATA[Low carb]]></category>
 
-		<guid isPermaLink="false">:8080/?p=259</guid>
-		<description><![CDATA[Zucchini ist ein sehr vielseitiges und gesundes Gemüse, enthält viel Wasser, ist kalorienarm und  passt für Alles. Passt für schnelle Küche und man braucht keine spezielle Zutaten. Wenn jemand sich<a class="read-more" href="/zucchinispaghetti-mit-gemuesesosse-und-kaese/">mehr...</a>]]></description>
-		<wfw:commentRss>/zucchinispaghetti-mit-gemuesesosse-und-kaese/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://2cld-mweber.github.io/petrafitcom:8080/?p=259</guid>
+		<description><![CDATA[Zucchini ist ein sehr vielseitiges und gesundes Gemüse, enthält viel Wasser, ist kalorienarm und  passt für Alles. Passt für schnelle Küche und man braucht keine spezielle Zutaten. Wenn jemand sich<a class="read-more" href="https://2cld-mweber.github.io/petrafitcom/zucchinispaghetti-mit-gemuesesosse-und-kaese/">mehr...</a>]]></description>
+		<wfw:commentRss>https://2cld-mweber.github.io/petrafitcom/zucchinispaghetti-mit-gemuesesosse-und-kaese/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

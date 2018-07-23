@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Dessert &#8211; www.petrafit.com</title>
-	<atom:link href="/tag/dessert/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://2cld-mweber.github.io/petrafitcom/tag/dessert/feed/" rel="self" type="application/rss+xml" />
+	<link>https://2cld-mweber.github.io/petrafitcom/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 26 Jul 2017 11:27:48 +0000</lastBuildDate>
 	<language>de-DE</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.5.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/09/cropped-Zeichenfläche-1@2x-32x32.png</url>
+	<url>https://2cld-mweber.github.io/petrafitcom/wp-content/uploads/2016/09/cropped-Zeichenfläche-1@2x-32x32.png</url>
 	<title>Dessert &#8211; www.petrafit.com</title>
-	<link>/</link>
+	<link>https://2cld-mweber.github.io/petrafitcom/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Müsli mit Joghurt, Erdbeere, Johannisbeere und Nüsse</title>
-		<link>/muesli-mit-joghurt-erdbeere-johannisbeere-und-nuesse/</link>
-		<comments>/muesli-mit-joghurt-erdbeere-johannisbeere-und-nuesse/#respond</comments>
+		<link>https://2cld-mweber.github.io/petrafitcom/muesli-mit-joghurt-erdbeere-johannisbeere-und-nuesse/</link>
+		<comments>https://2cld-mweber.github.io/petrafitcom/muesli-mit-joghurt-erdbeere-johannisbeere-und-nuesse/#respond</comments>
 		<pubDate>Tue, 08 Nov 2016 12:44:02 +0000</pubDate>
 		<dc:creator><![CDATA[Petra Béres]]></dc:creator>
 				<category><![CDATA[Rezepte]]></category>
@@ -36,9 +36,9 @@
 		<category><![CDATA[Frühstück]]></category>
 		<category><![CDATA[Vegetarisch]]></category>
 
-		<guid isPermaLink="false">:8080/?p=351</guid>
+		<guid isPermaLink="false">https://2cld-mweber.github.io/petrafitcom:8080/?p=351</guid>
 		<description><![CDATA[Ein ausgewogenes Frühstück ist sehr wichtig für eine gesunde Ernährung. Die frische Zutaten liefern Energie, Vitamine und gesunde Fette. Obst kann man nach Saison variieren.]]></description>
-		<wfw:commentRss>/muesli-mit-joghurt-erdbeere-johannisbeere-und-nuesse/feed/</wfw:commentRss>
+		<wfw:commentRss>https://2cld-mweber.github.io/petrafitcom/muesli-mit-joghurt-erdbeere-johannisbeere-und-nuesse/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

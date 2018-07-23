@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>Kommentare zu: Humus</title>
-	<atom:link href="/humus/feed/" rel="self" type="application/rss+xml" />
-	<link>/humus/</link>
+	<atom:link href="https://2cld-mweber.github.io/petrafitcom/humus/feed/" rel="self" type="application/rss+xml" />
+	<link>https://2cld-mweber.github.io/petrafitcom/humus/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Thu, 25 Aug 2016 11:05:11 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>

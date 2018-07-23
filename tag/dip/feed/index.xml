@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Dip &#8211; www.petrafit.com</title>
-	<atom:link href="/tag/dip/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://2cld-mweber.github.io/petrafitcom/tag/dip/feed/" rel="self" type="application/rss+xml" />
+	<link>https://2cld-mweber.github.io/petrafitcom/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 26 Jul 2017 11:27:48 +0000</lastBuildDate>
 	<language>de-DE</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.5.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/09/cropped-Zeichenfläche-1@2x-32x32.png</url>
+	<url>https://2cld-mweber.github.io/petrafitcom/wp-content/uploads/2016/09/cropped-Zeichenfläche-1@2x-32x32.png</url>
 	<title>Dip &#8211; www.petrafit.com</title>
-	<link>/</link>
+	<link>https://2cld-mweber.github.io/petrafitcom/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Erbsenpüree</title>
-		<link>/erbsenpueree/</link>
-		<comments>/erbsenpueree/#respond</comments>
+		<link>https://2cld-mweber.github.io/petrafitcom/erbsenpueree/</link>
+		<comments>https://2cld-mweber.github.io/petrafitcom/erbsenpueree/#respond</comments>
 		<pubDate>Fri, 11 Nov 2016 10:04:40 +0000</pubDate>
 		<dc:creator><![CDATA[Petra Béres]]></dc:creator>
 				<category><![CDATA[Rezepte]]></category>
@@ -38,15 +38,15 @@
 		<category><![CDATA[Low carb]]></category>
 		<category><![CDATA[Vegetarisch]]></category>
 
-		<guid isPermaLink="false">:8080/?p=360</guid>
+		<guid isPermaLink="false">https://2cld-mweber.github.io/petrafitcom:8080/?p=360</guid>
 		<description><![CDATA[Erbsenpüree ist eine perfekte Lösung für kalorienarmes Abendbrot als Gemüsedip, für Frühstück auf Toast oder einfach zu naschen 🙂]]></description>
-		<wfw:commentRss>/erbsenpueree/feed/</wfw:commentRss>
+		<wfw:commentRss>https://2cld-mweber.github.io/petrafitcom/erbsenpueree/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Humus</title>
-		<link>/humus/</link>
-		<comments>/humus/#respond</comments>
+		<link>https://2cld-mweber.github.io/petrafitcom/humus/</link>
+		<comments>https://2cld-mweber.github.io/petrafitcom/humus/#respond</comments>
 		<pubDate>Tue, 08 Nov 2016 11:30:14 +0000</pubDate>
 		<dc:creator><![CDATA[Petra Béres]]></dc:creator>
 				<category><![CDATA[Rezepte]]></category>
@@ -54,9 +54,9 @@
 		<category><![CDATA[Dip]]></category>
 		<category><![CDATA[Vegetarisch]]></category>
 
-		<guid isPermaLink="false">:8080/?p=344</guid>
+		<guid isPermaLink="false">https://2cld-mweber.github.io/petrafitcom:8080/?p=344</guid>
 		<description><![CDATA[Humus ist aus der orientalische Küche bekannt, macht nicht nur die Grill-Abende geschmackvoller, sondern passt auch perfekt als Gemüsedip.]]></description>
-		<wfw:commentRss>/humus/feed/</wfw:commentRss>
+		<wfw:commentRss>https://2cld-mweber.github.io/petrafitcom/humus/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
